@@ -1,4 +1,4 @@
-# Andrei Tseniuta
+# Andrei Tsen
 
 ## Contacts:
 
@@ -27,7 +27,7 @@ University of Bialystok
 
 ### Languages: 
 
-English, Polish, Belarusian, Russian
+*English, *Polish, *Belarusian, *Russian
 
 ### My projects: CV 
 
